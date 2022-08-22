@@ -6,7 +6,7 @@ public class Q1 {
         double hatPrice = 23.99;
         double shoesPrice = 15.99;
         
-        // There is a only one data type that is double.
+        // There is an only one data type that is double.
 
         System.out.println("Total price: $" + (shirtPrice + hatPrice + shoesPrice));
     }
